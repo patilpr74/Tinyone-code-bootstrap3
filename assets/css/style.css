@@ -35,7 +35,7 @@
     color: var(--dark-color);
 }
 
-.panel-default .panel-body{
+.panel{
     border: none;
 }
 /* feature section css  */

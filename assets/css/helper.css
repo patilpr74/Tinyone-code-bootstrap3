@@ -18,42 +18,42 @@ a:visited {
 }
 
 section {
-    padding: 10rem 0;
+    padding: 160px 0;
 }
 
 /* 1 rem === 10px  */
 .mb-40 {
-    margin-bottom: 4rem;
+    margin-bottom: 64px;
 }
 .mb-60 {
-    margin-bottom: 6rem;
+    margin-bottom: 96px;
 }
 
 .mb-80 {
-    margin-bottom: 8rem;
+    margin-bottom: 128px;
 }
 
 .mb-90 {
-    margin-bottom: 9rem;
+    margin-bottom: 144px;
 }
 .mb-130 {
-    margin-bottom: 13rem;
+    margin-bottom: 208px;
 }
 
 .pri-heading {
     font-weight: bold;
-    font-size: 3.2rem;
+    font-size: 55px;
     color: var(--dark-color);
 }
 
 .sec-heading {
-    font-size: 2rem;
+    font-size: 32px;
     color: var(--sec-color);
 }
 
 .para {
-    font-size: 1.6rem;
+    font-size: 22px;
     color: var(--tir-color);
-    margin-bottom: 4rem;
+    margin-bottom: 64px;
 }
 

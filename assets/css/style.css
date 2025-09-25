@@ -35,6 +35,9 @@
     color: var(--dark-color);
 }
 
+.panel-default .panel-body{
+    border: none;
+}
 /* feature section css  */
 
 .thumbInfo h4 {
